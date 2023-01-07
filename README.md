@@ -4,9 +4,9 @@ Here, I have implemented all these methods to solve a very simple root-finding p
 
 >> Error reults:
 
-N-R          : 0.0
-Taylor       : 7.280398506281927e-12
-Perturbation : 0.00030447546446810136
+-N-R          : 0.0
+-Taylor       : 7.280398506281927e-12
+-Perturbation : 0.00030447546446810136
 
 where,
 Error     = |Excat_sol - Converged_sol|
