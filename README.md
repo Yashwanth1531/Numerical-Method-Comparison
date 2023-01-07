@@ -9,7 +9,7 @@ Here, I have implemented all these methods to solve a very simple root-finding p
 + Perturbation : 0.00030447546446810136
 
 where,
-Error     = |Excat_sol - Converged_sol|
-Excat_sol = 3.1622776601683795
-N-R       = Newton-Raphson
+    + Error     = |Excat_sol - Converged_sol|
+    + Excat_sol = 3.1622776601683795
+    + N-R       = Newton-Raphson
 
